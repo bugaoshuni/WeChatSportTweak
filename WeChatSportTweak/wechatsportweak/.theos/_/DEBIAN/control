@@ -1,0 +1,10 @@
+Package: com.hjc.wechatsportweak
+Name: WeChatSportWeak
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: hjc
+Author: hjc
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 72
